@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "151003b659f759da",
+    "type": "split",
+    "children": [
+      {
+        "id": "2450b9e53ae87170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "237609b82f250585",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8dbcb225b3a3473",
+    "type": "split",
+    "children": [
+      {
+        "id": "4219e37b0493a0e1",
+        "type": "tabs",
+        "dimension": 30.79710144927536,
+        "children": [
+          {
+            "id": "e93a70da9ed25369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b07db574e0d6fbb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d87982406bba94bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "83314bb3c9b4dfdb",
+        "type": "tabs",
+        "dimension": 69.20289855072464,
+        "children": [
+          {
+            "id": "96f9909dc8cd122f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 485.50328826904297
+  },
+  "right": {
+    "id": "e42878d4337b3173",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c918b93efd33e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273a8ef51249f718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56c12eebd9af75d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "340d12310a47f060",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a28392162b8a1787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700ce20340cf4cc3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "e93a70da9ed25369",
+  "lastOpenFiles": [
+    "计量经济学/pic/Pasted image 20230523202731.png",
+    "计量经济学/pic/Pasted image 20230523202424.png",
+    "计量经济学/pic/Pasted image 20230521212748.png",
+    "计量经济学/pic",
+    "Letax公式语法.md",
+    "计量经济学/Econometrics+by+Bruce+E.+Hansen（June+,+2021）.pdf",
+    "计量经济学/Econometrics-note-入门.md",
+    "计量经济学/Pasted image 20230523202731.png",
+    "计量经济学/Pasted image 20230523202424.png",
+    "未命名.md",
+    "计量经济学/Pasted image 20230521212748.png",
+    "计量经济学/计量经济学学习路经.canvas",
+    "计量经济学/note-高级.md",
+    "计量经济学/【Bruce_Hansen】Econometrics_manuscript_2015.pdf",
+    "计量经济学/851d5f7ce678464b9bf4c9b1a2f17dbc/d56f5bf725994a43a93e2f406fec9bcf.pdf",
+    "计量经济学/851d5f7ce678464b9bf4c9b1a2f17dbc",
+    "计量经济学/【洪永淼】Lecture Notes on ADVANCED ECONOMETRICS.pdf"
+  ]
+}

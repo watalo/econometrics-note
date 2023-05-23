@@ -1,0 +1,34 @@
+{
+  "colored-text:add-text": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "colored-text:get-color-input": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F3"
+    }
+  ],
+  "colored-text:change-color-backwards": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F2"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ]
+}
